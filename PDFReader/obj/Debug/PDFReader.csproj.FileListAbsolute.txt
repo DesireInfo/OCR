@@ -1,0 +1,29 @@
+E:\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+E:\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+E:\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+E:\PDFReader\PDFReader\bin\Debug\itextsharp.dll
+E:\PDFReader\PDFReader\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\PDFReader\PDFReader\bin\Debug\Microsoft.Sharepoint.Client.Runtime.dll
+E:\PDFReader\PDFReader\bin\Debug\itextsharp.xml
+E:\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+E:\PDFReader\PDFReader\obj\Debug\PDFReader.pdb
+E:\PDFReader\PDFReader\obj\Debug\PDFReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\obj\Debug\PDFReader.pdb
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\PDFReader\PDFReader\PDFReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\obj\Debug\PDFReader.pdb
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\itextsharp.dll
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\Microsoft.Sharepoint.Client.Runtime.dll
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\bin\Debug\itextsharp.xml
+D:\Utsav's Projects\Projects\OCR\PDFReader\PDFReader\PDFReader\obj\Debug\PDFReader.csprojResolveAssemblyReference.cache
